@@ -1,0 +1,15 @@
+#$ TITLE: Default Modes for Boxer 
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: MODES
+#$ STATUS: OFFICIAL
+#$ KEYWORDS: defaults, reset, mode, modes, adjustments, aux, switch
+#$ AUTHOR: Betaflight
+#$ DESCRIPTION: Sets modes and adjustment ranges to my Boxer radio
+
+aux 0 0 0 1800 2100 0 0
+aux 1 1 1 1300 1700 0 0
+aux 2 2 1 1800 2100 0 0
+aux 3 27 3 1800 2100 0 0
+aux 4 13 4 1800 2100 0 0
+aux 5 35 2 1800 2100 0 0

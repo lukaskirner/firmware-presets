@@ -138,19 +138,48 @@
     ],
     "category": [
       "BNF",
+      "MODES",
       "OSD"
     ],
     "author": [
+      "Betaflight",
       "Lukas Kirner"
     ],
     "keywords": [
+      "adjustments",
+      "aux",
       "BNF",
       "defaults",
+      "mode",
+      "modes",
       "OSD",
-      "reset"
+      "reset",
+      "switch"
     ]
   },
   "presets": [
+    {
+      "fullPath": "presets/4.3/modes/boxer.txt",
+      "hash": "f403304cd48fbe81a726e1950b881e470b24e040dfa94b59c7f102734bed172a",
+      "title": "Default Modes for Boxer",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "MODES",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "mode",
+        "modes",
+        "adjustments",
+        "aux",
+        "switch"
+      ],
+      "author": "Betaflight",
+      "priority": 0
+    },
     {
       "fullPath": "presets/4.3/osd/default.txt",
       "hash": "ef3251c7e4c1557844e897b4ff224625f9d69a177223beac46374f0e2f2be130",
