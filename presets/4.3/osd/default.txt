@@ -1,5 +1,6 @@
-#$ TITLE: O3 OSD settings
+#$ TITLE: Default OSD settings
 #$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: defaults, reset, OSD

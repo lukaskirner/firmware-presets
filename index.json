@@ -152,11 +152,12 @@
   },
   "presets": [
     {
-      "fullPath": "presets/4.3/osd/O3_Default.txt",
-      "hash": "701271a4983f43b14d4bfbdabea7ca0ad2a51f4308c2084f36f2c59957773106",
-      "title": "O3 OSD settings",
+      "fullPath": "presets/4.3/osd/default.txt",
+      "hash": "ef3251c7e4c1557844e897b4ff224625f9d69a177223beac46374f0e2f2be130",
+      "title": "Default OSD settings",
       "firmware_version": [
-        "4.3"
+        "4.3",
+        "4.4"
       ],
       "category": "OSD",
       "status": "OFFICIAL",
