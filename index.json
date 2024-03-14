@@ -159,6 +159,23 @@
   },
   "presets": [
     {
+      "fullPath": "presets/4.3/bnf/iFlight_Nazgul_F5_V2.txt",
+      "hash": "e1c5616997f8e8faa7c5719c3a0cae89bcd7f882fee71a02d301eb13dfee38ce",
+      "title": "iFlight Nazgul F5 V2",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "BNF",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "BNF"
+      ],
+      "author": "Lukas Kirner",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/modes/boxer.txt",
       "hash": "c41f69072e4920d5fdc1143e192a616d98ff423519afd80121a3ecd78815a3b6",
       "title": "Default modes - Boxer",
@@ -182,11 +199,10 @@
     },
     {
       "fullPath": "presets/4.3/osd/default.txt",
-      "hash": "69535d656c22c141fe719ddeb52b6a3efca9ea4806c84941d5f3e5e2616f4d09",
+      "hash": "03d7e1ae52a1c5f79399ec4b8db013a38a3c76567c47588b702ceafe210331f8",
       "title": "Default OSD",
       "firmware_version": [
-        "4.3",
-        "4.4"
+        "4.3"
       ],
       "category": "OSD",
       "status": "OFFICIAL",
@@ -211,6 +227,23 @@
         "defaults",
         "reset",
         "BNF"
+      ],
+      "author": "Lukas Kirner",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/osd/default.txt",
+      "hash": "bb0c47b827cb95d666bcb87936d9dc9b655ec82588c61d2edda57914e0511c8f",
+      "title": "Default OSD",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "reset",
+        "OSD"
       ],
       "author": "Lukas Kirner",
       "priority": 0
