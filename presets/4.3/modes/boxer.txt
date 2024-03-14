@@ -1,4 +1,4 @@
-#$ TITLE: Default Modes for Boxer 
+#$ TITLE: Default modes - Boxer 
 #$ FIRMWARE_VERSION: 4.3
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: MODES

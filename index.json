@@ -160,8 +160,8 @@
   "presets": [
     {
       "fullPath": "presets/4.3/modes/boxer.txt",
-      "hash": "f403304cd48fbe81a726e1950b881e470b24e040dfa94b59c7f102734bed172a",
-      "title": "Default Modes for Boxer",
+      "hash": "c41f69072e4920d5fdc1143e192a616d98ff423519afd80121a3ecd78815a3b6",
+      "title": "Default modes - Boxer",
       "firmware_version": [
         "4.3",
         "4.4"
@@ -182,8 +182,8 @@
     },
     {
       "fullPath": "presets/4.3/osd/default.txt",
-      "hash": "ef3251c7e4c1557844e897b4ff224625f9d69a177223beac46374f0e2f2be130",
-      "title": "Default OSD settings",
+      "hash": "69535d656c22c141fe719ddeb52b6a3efca9ea4806c84941d5f3e5e2616f4d09",
+      "title": "Default OSD",
       "firmware_version": [
         "4.3",
         "4.4"
@@ -200,8 +200,8 @@
     },
     {
       "fullPath": "presets/4.4/bnf/Cinelog35_V2.txt",
-      "hash": "2c7b7db8ee70043e5b46c724bd47d7d04e2e7715e0b364fc0b4bffea6a4be75a",
-      "title": "Cinelog35 V2 - BNF",
+      "hash": "23e0d87aff302039c77ee54a7b695034a9748b9c70d37275a794f89a0774e641",
+      "title": "Cinelog35 V2",
       "firmware_version": [
         "4.4"
       ],
